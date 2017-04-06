@@ -16,3 +16,4 @@ merge_sort(iArray, midIndex, endIndex);
 
 //the merge funcion
 merge(iArray,startIndex, endIndex);
+}
