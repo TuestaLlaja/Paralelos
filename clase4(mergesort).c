@@ -1,3 +1,5 @@
+//MPI pagina 
+///http://lsi.ugr.es/jmantas/pdp/teoria/descargas/PDP_MPI.pdf
 ///secuencial
 void merge_sort(int iArray[], int startIndex, int endIndex){
   int midIndex;
